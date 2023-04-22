@@ -1,0 +1,25 @@
+@charset "ISO-8859-1";
+body {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  position: fixed;
+  align-items: center;
+  justify-content: center;
+    --bs-dark-bg-subtle: #ced4da;
+}
+
+.fcc-btn {
+  background-color: #199319;
+  color: white;
+  padding: 15px 25px;
+  text-decoration: none;
+}
+
+.fcc-btn:hover {
+  background-color: #223094;
+}
+.btn-color {
+  background-color: green;
+  color: white;
+}
